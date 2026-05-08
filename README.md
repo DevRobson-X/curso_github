@@ -1,5 +1,4 @@
 
 # Bem vindo ao curso github
 
-TESTE
-Teste 2
+DESCRIÇÃO DO MEU README
